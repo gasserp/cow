@@ -1,2 +1,0 @@
-# cow
-serve cow
